@@ -98,7 +98,7 @@ class Ninjac extends StatelessWidget {
              ),
              SizedBox(height: 20.0,),
              Text(
-               "Clan",
+               "Ultimate Jutsu",
                style: TextStyle(
                  color: Colors.black,
                  letterSpacing: 2.0,
@@ -107,7 +107,7 @@ class Ninjac extends StatelessWidget {
              ),
              SizedBox(height: 12.0,),
              Text(
-               "Uchiha Clan",
+               "Ninjutsu :Chidori",
                style: TextStyle(
                  color: Colors.deepOrange,
                  letterSpacing: 2.0,
