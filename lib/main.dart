@@ -106,7 +106,7 @@ class Ninjac extends StatelessWidget {
          Text(
            "$trew",
            style: TextStyle(
-             fontWeight: FontWeight.normal,
+             fontWeight: FontWeight.bold,
              letterSpacing: 1.5,
            ),
          ),  ],
