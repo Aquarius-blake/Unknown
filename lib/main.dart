@@ -96,36 +96,28 @@ class Ninjac extends StatelessWidget {
                  letterSpacing: 1.5,
                ),
              ),
-             SizedBox(height: 20.0,),
-             Text(
-               "Ultimate Jutsu",
-               style: TextStyle(
-                 color: Colors.black,
-                 letterSpacing: 2.0,
 
-               ),
-             ),
-             SizedBox(height: 12.0,),
-             Text(
-               "Ninjutsu :Chidori",
-               style: TextStyle(
-                 color: Colors.deepOrange,
-                 letterSpacing: 2.0,
-                 fontSize: 21.0,
-                 fontWeight: FontWeight.bold,
-               ),
-             ),
 
 
            ],
          ),
-         SizedBox(height: 10.0,),
-
+         SizedBox(height: 20.0,),
          Text(
-           "$trew",
+           "Ultimate Jutsu",
            style: TextStyle(
-             fontWeight: FontWeight.bold,
+             color: Colors.black,
              letterSpacing: 2.0,
+
+           ),
+         ),
+         SizedBox(height: 12.0,),
+         Text(
+           "Ninjutsu :Chidori",
+           style: TextStyle(
+             color: Colors.deepOrange,
+             letterSpacing: 2.0,
+             fontSize: 21.0,
+             fontWeight: FontWeight.bold,
            ),
          ),  ],
 
