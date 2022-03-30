@@ -112,7 +112,7 @@ class Ninjac extends StatelessWidget {
          ),
          SizedBox(height: 12.0,),
          Text(
-           "Ninjutsu :Chidori",
+           "Ninjutsu : Chidori",
            style: TextStyle(
              color: Colors.deepOrange,
              letterSpacing: 2.0,
