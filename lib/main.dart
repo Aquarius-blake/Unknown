@@ -71,7 +71,7 @@ class Ninjac extends StatelessWidget {
 
            ),
          ),
-         SizedBox(height: 10.0,),
+         SizedBox(height: 12.0,),
          Text(
            "Uchiha Clan",
            style: TextStyle(
